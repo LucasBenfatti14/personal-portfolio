@@ -51,7 +51,9 @@ A aplicação foi construída com foco em simplicidade, organização e experiê
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Preview+do+Portfólio" alt="preview do projeto" />
+  <img src="./Assets/PreviewIndex.jpg" alt="preview do projeto" /><br><br>
+  <img src="./Assets/PreviewAbout.jpg" alt="preview do projeto" /><br><br>
+  <img src="./Assets/PreviewStudies.jpg" alt="preview do projeto" />
 </p>
 
 ---

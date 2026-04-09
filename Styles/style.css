@@ -15,6 +15,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -97,6 +98,15 @@ body {
     display: flex;
     align-items: center;
     gap: 0.5rem;
+}
+
+.estudos__conteudo__cursos li .destaque {
+    font-weight: 600;
+    color: var(--cor-hover);
+    background-color: rgba(139, 174, 102, 0.1);
+    padding: 2px 6px;
+    border-radius: 6px;
+    border: 1px solid rgba(139, 174, 102, 0.2);
 }
 
 .estudos__conteudo__cursos__certificado {
